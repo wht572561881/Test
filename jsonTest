@@ -1,0 +1,99 @@
+{
+	"crkInfoList": [
+		{
+			"CurrentInventory": 625,
+			"TodayOutQuantity": 1010,
+			"TodayInQuantity": 505,
+			"rttl": [
+				{
+					"date": "2024-10-03",
+					"throughput": 150
+				},
+				{
+					"date": "2024-10-04",
+					"throughput": 200
+				},
+				{
+					"date": "2024-10-05",
+					"throughput": 180
+				},
+				{
+					"date": "2024-10-06",
+					"throughput": 220
+				},
+				{
+					"date": "2024-10-07",
+					"throughput": 240
+				},
+				{
+					"date": "2024-10-08",
+					"throughput": 260
+				}
+			],
+			"hwxx": [
+				{
+					"分配": "12",
+					"满": "41",
+					"空": "22",
+					"其他": "33"
+				}
+			],
+			"crkfx": [
+				{
+					"kq": "密集库区",
+					"rk": 120,
+					"ck": 80
+				},
+				{
+					"kq": "成品高架库区",
+					"rk": 200,
+					"ck": 150
+				}
+			],
+			"crkmx": [
+				{
+					"Time": "10-07 15:40",
+					"Type": "入库",
+					"Quantity": "250",
+					"OrderNumber": "20241007001"
+				},
+				{
+					"Time": "10-07 15:45",
+					"Type": "出库",
+					"Quantity": "200",
+					"OrderNumber": "20241007001"
+				},
+				{
+					"Time": "10-08 8:12",
+					"Type": "入库",
+					"Quantity": "300",
+					"OrderNumber": "20241008001"
+				},
+				{
+					"Time": "10-08 8:30",
+					"Type": "入库",
+					"Quantity": "150",
+					"OrderNumber": "20241008002"
+				},
+				{
+					"Time": "10-08 8:45",
+					"Type": "出库",
+					"Quantity": "200",
+					"OrderNumber": "20241008003"
+				},
+				{
+					"Time": "10-08 9:20",
+					"Type": "入库",
+					"Quantity": "400",
+					"OrderNumber": "20241008004"
+				},
+				{
+					"Time": "10-08 9:55",
+					"Type": "出库",
+					"Quantity": "100",
+					"OrderNumber": "20241008005"
+				}
+			]
+		}
+	]
+}
