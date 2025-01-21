@@ -1,0 +1,61 @@
+{
+    "infoCell": [
+        {
+            "cellId": "A01-01-01-02",
+            "cellName": "01排001列02层",
+            "cellLocation": "(1,1,2)",		//货位三维坐标
+            "storageId": "01",
+            "cellArea": "01",
+            "pai": 1,
+            "lie": 1,
+            "ceng": 2,
+            "twinsNo": "0100102",
+            "cellStatus": "2",
+            "cellLock": "N",
+            "zyFl": "z",
+            "dsFl": "s",
+            "cellHight": 0,
+            "cellWidth": 0,
+            "cellTypeFl": null,
+            "materialMsg": null
+        },
+        {
+            "cellId": "A01-01-02-01",
+            "cellName": "01排002列01层",
+            "cellLocation": "(1,2,1)",
+            "storageId": "01",
+            "cellArea": "01",
+            "pai": 1,
+            "lie": 2,
+            "ceng": 1,
+            "twinsNo": "0100201",
+            "cellStatus": "3",
+            "cellLock": "N",
+            "zyFl": "z",
+            "dsFl": "s",
+            "cellHight": 0,
+            "cellWidth": 0,
+            "cellTypeFl": null,
+            "materialMsg": null
+        },
+        {
+            "cellId": "A01-01-02-02",
+            "cellName": "01排002列02层",
+            "cellLocation": "(1,2,2)",
+            "storageId": "01",
+            "cellArea": "01",
+            "pai": 1,
+            "lie": 2,
+            "ceng": 2,
+            "twinsNo": "0100202",
+            "cellStatus": "4",
+            "cellLock": "N",
+            "zyFl": "z",
+            "dsFl": "s",
+            "cellHight": 0,
+            "cellWidth": 0,
+            "cellTypeFl": null,
+            "materialMsg": null
+        }
+    ]
+}
