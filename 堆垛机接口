@@ -1,0 +1,39 @@
+{
+    "ddjlist": [
+        {
+            "ddjId": "ddj1",
+            "ddjName": "一号堆垛机",
+            "rwh": 14007219,
+            "ys": 0,
+            "zxjd": 5,
+            "yxxf": 1,
+            "gzdm": 2,
+            "gzdmName": "待机",
+            "ypai": 3,
+            "ylie": 0,
+            "yceng": 1,
+            "mbpai": 4,
+            "mblie": 67,
+            "mbceng": 9,
+            "dqpai": 0,
+            "dqlie": 67,
+            "dqceng": 9,
+            "dqxd": 0,
+            "yxsd": 0,
+            "sjsd": 0,
+            "hcsd": 0,
+            "hcwz": 120,
+            "th": "0",
+            "resutmsg": "没有可以执行的",
+            "finishRwh": 14007219,
+            "sxtZ": "192.168.11.91",
+            "sxtY": "192.168.11.90",
+            "xdId": "1",
+            "yxwz": "2500",
+            "sjwz": "75",
+            "yLocation": "(3,0,1)",		//原三维坐标
+            "mbLocation": "(4,67,9)",	//目标三维坐标
+            "dqLocation": "(0,67,9)"	//当前三维坐标
+        }
+    ]
+}
