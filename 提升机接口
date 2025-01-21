@@ -1,0 +1,9 @@
+{
+    "tsjlist": [
+        {
+            "tsjId": "tsj1",
+            "tsjName": "1号提升机",
+            "curFloor": "3"
+        }
+    ]
+}
