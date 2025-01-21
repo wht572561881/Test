@@ -1,0 +1,25 @@
+{
+    "sxclist": [
+        {
+            "sxcId": "sxc1",
+            "sxcName": "1号四向车",
+            "sxcLocation": "0",
+            "sxcStatus": "2",
+            "sxcInfo": "",
+            "hasPallet": "0",
+            "palletStatus": "0",
+            "reserveStatus": "1",
+            "battery": "72"
+        },
+        {
+            "sxcId": "sxc2",
+            "sxcName": "2号思向车",
+            "sxcLocation": "0",
+            "sxcStatus": "2",
+            "sxcInfo": "",
+            "hasPallet": "0",
+            "palletStatus": "0",
+            "reserveStatus": "1",
+            "battery": "65"
+        }
+    ]
