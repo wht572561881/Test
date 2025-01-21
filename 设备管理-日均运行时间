@@ -1,0 +1,10 @@
+{
+    "sbglWorkTime": [
+        {
+            "dayGzTime": "23",	//今日设备工作总工时
+            "dayBjTime": "34",	//今日设备报警总工时
+            "dayDjTime": "12",	//今日设备待机总工时
+            "dayLxTime": "54"	//今日设备离线总工时
+        }
+    ]
+}
