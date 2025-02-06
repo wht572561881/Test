@@ -1,9 +1,0 @@
-{
-    "zlGjtj": [
-        {
-            "dayGjCount": 1,	//今日告警次数
-            "weekGjCount": 2,	//本周告警次数
-            "monthGjCount": 3	//本月告警次数
-        }
-    ]
-}
