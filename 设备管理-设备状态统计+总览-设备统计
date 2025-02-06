@@ -1,9 +1,0 @@
-{
-    "sbglSbzttj": [
-        {
-            "djCount": 1,	//待机设备数
-            "gzCount": 2,	//工作设备数
-            "bjCount": 28	//报警设备数
-        }
-    ]
-}
