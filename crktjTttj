@@ -1,19 +1,19 @@
 {
     "crktjTttj": [
         {
-            "todayInTotalCount": 1106,		//今日入库总量
-            "todayOutTotalCount": 1005,		//今日出库总量
-            "todayInCount1": 0,			//今日1区入库量
-            "todayInCount2": 0,			//今日2区入库量
-            "todayOutCount1": 0,			//今日1区出库量
-            "todayOutCount2": 0,			//今日2区出库量
-            "kcTotalCount": 1234,			//库存总量
-            "kcCount1": 0,			//1区库存总量
-            "kcCount2": 0,			//2区库存总量
-            "restCellTotalCount": 496,		//剩余货位数
-            "restCellCount1": 316,			//1区剩余货位数
-            "usePercent1": "1.2500%",		//1区货架利用率
-            "usePercent2": "0.0000%"		//2区货架利用率
+            "todayInTotalCount": 1106,	
+            "todayOutTotalCount": 1005,	
+            "todayInCount1": 0,		
+            "todayInCount2": 0,
+            "todayOutCount1": 0,
+            "todayOutCount2": 0,
+            "kcTotalCount": 1234,
+            "kcCount1": 0,
+            "kcCount2": 0,
+            "restCellTotalCount": 496,	
+            "restCellCount1": 316,	
+            "usePercent1": "1.2500%",
+            "usePercent2": "0.0000%"	
         }
     ]
 }
