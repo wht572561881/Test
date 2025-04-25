@@ -1,0 +1,94 @@
+{
+  "data": {
+    "daily": {
+      "inbound": [
+        {
+          "document_count": 12,
+          "document_type": "采购入库单",
+          "adequate_count": 10,
+          "avg_duration": "1h 30m"
+        },
+        {
+          "document_count": 8,
+          "document_type": "退货入库单",
+          "adequate_count": 8,
+          "avg_duration": "1h 10m"
+        }
+      ],
+      "outbound": [
+        {
+          "document_count": 15,
+          "document_type": "销售出库单",
+          "adequate_count": 13,
+          "avg_duration": "2h 00m"
+        },
+        {
+          "document_count": 6,
+          "document_type": "调拨出库单",
+          "adequate_count": 5,
+          "avg_duration": "1h 40m"
+        }
+      ]
+    },
+    "weekly": {
+      "inbound": [
+        {
+          "document_count": 74,
+          "document_type": "采购入库单",
+          "adequate_count": 69,
+          "avg_duration": "1h 20m"
+        },
+        {
+          "document_count": 28,
+          "document_type": "退货入库单",
+          "adequate_count": 26,
+          "avg_duration": "1h 00m"
+        }
+      ],
+      "outbound": [
+        {
+          "document_count": 93,
+          "document_type": "销售出库单",
+          "adequate_count": 88,
+          "avg_duration": "1h 50m"
+        },
+        {
+          "document_count": 33,
+          "document_type": "调拨出库单",
+          "adequate_count": 30,
+          "avg_duration": "2h 10m"
+        }
+      ]
+    },
+    "monthly": {
+      "inbound": [
+        {
+          "document_count": 312,
+          "document_type": "采购入库单",
+          "adequate_count": 295,
+          "avg_duration": "1h 15m"
+        },
+        {
+          "document_count": 122,
+          "document_type": "退货入库单",
+          "adequate_count": 120,
+          "avg_duration": "1h 05m"
+        }
+      ],
+      "outbound": [
+        {
+          "document_count": 420,
+          "document_type": "销售出库单",
+          "adequate_count": 412,
+          "avg_duration": "2h 00m"
+        },
+        {
+          "document_count": 110,
+          "document_type": "调拨出库单",
+          "adequate_count": 107,
+          "avg_duration": "2h 30m"
+        }
+      ]
+    }
+  }
+}
