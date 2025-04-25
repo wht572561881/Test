@@ -29,8 +29,8 @@
           "avg_duration": "1h 40m"
         }
       ]
-    },
-    "weekly": {
+    ],
+    "weekly": [
       "inbound": [
         {
           "document_count": 74,
@@ -59,8 +59,8 @@
           "avg_duration": "2h 10m"
         }
       ]
-    },
-    "monthly": {
+    ],
+    "monthly": [
       "inbound": [
         {
           "document_count": 312,
