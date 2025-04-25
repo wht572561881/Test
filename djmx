@@ -1,6 +1,6 @@
 {
-  "data": {
-    "daily": {
+  "data": [
+    "daily": [
       "inbound": [
         {
           "document_count": 12,
@@ -89,6 +89,6 @@
           "avg_duration": "2h 30m"
         }
       ]
-    }
-  }
+    ]
+  ]
 }
