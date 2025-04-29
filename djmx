@@ -87,6 +87,12 @@
           "document_type": "调拨出库单",
           "adequate_count": 107,
           "avg_duration": "2h 30m"
+        },
+        {
+          "document_count": 438,
+          "document_type": "lalala单",
+          "adequate_count": 100,
+          "avg_duration": "1h 16m"
         }
       ]
     }
