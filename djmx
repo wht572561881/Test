@@ -93,6 +93,12 @@
           "document_type": "lalala单",
           "adequate_count": 100,
           "avg_duration": "1h 16m"
+        },
+{
+          "document_count": 001,
+          "document_type": "hhh单",
+          "adequate_count": 101,
+          "avg_duration": "1h 3m"
         }
       ]
     }
